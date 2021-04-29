@@ -8,5 +8,5 @@
 
 ## Navigating this Repo
 
-- Lecture Slide Deck (.pdf)
-- Lecture References & Resources (.md)
+- [Lecture Slide Deck (.pdf)](https://github.com/kthrog/LIS_545_guest_lecture/blob/main/files/LIS-545-demystifyingBiomedical-guest-lecture-SLIDES.pdf)
+- [Lecture References & Resources (.md)](https://github.com/kthrog/LIS_545_guest_lecture/blob/main/files/LIS-545-demystifyingBiomedical-guest-lecture-SLIDES.pdf)
