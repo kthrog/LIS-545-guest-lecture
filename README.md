@@ -1,2 +1,12 @@
-# LIS_545_guest_lecture
- Materials from a guest lecture entitled, "Demystifying Biomedical (Meta)Data," prepared for University of Washington's LIS 545 (Data Curation I) in Spring 2021. 
+# LIS 545 (Spring 2021) Guest Lecture: Demystifying Biomedical (Meta)Data
+
+## Lecture Outcomes:
+
+- Instill appreciation for the complexity and heterogeneity of biomedical data
+- Demystify bioinformatics, and maybe even inspire you to consider it
+- Provide a behind-the-scenes look at how data standards proliferate
+
+## Navigating this Repo
+
+- Lecture Slide Deck (.pdf)
+- Lecture References & Resources (.md)
