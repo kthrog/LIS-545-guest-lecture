@@ -36,12 +36,12 @@ University of Washington, Health Sciences Library (UWHSL). (2021). Data resource
 - [NLM Electronic Health Records Tool Guide](https://www.nlm.nih.gov/healthit/meaningful_use.html)
 
 ### Controlled Terminologies & Thesauri
-SNOMED-CT: https://www.nlm.nih.gov/research/umls/Snomed/snomed_main.html
-LOINC: https://loinc.org/
-UMLS: https://www.nlm.nih.gov/research/umls/index.html
-RxNorm: https://www.nlm.nih.gov/research/umls/rxnorm/index.html
-Common Data Elements (CDEs): https://www.nlm.nih.gov/research/umls/index.html
-NCI Thesaurus: https://ncithesaurus.nci.nih.gov/ncitbrowser/
+- [SNOMED-CT](https://www.nlm.nih.gov/research/umls/Snomed/snomed_main.html)
+- [LOINC](https://loinc.org/)
+- [UMLS](https://www.nlm.nih.gov/research/umls/index.html)
+- [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html)
+- [Common Data Elements (CDEs)](https://www.nlm.nih.gov/research/umls/index.html)
+- [NCI Thesaurus](https://ncithesaurus.nci.nih.gov/ncitbrowser/)
 
 ### Mapping Tools
 - [Fast Health Interoperability Resources (FHIR - pronounced 'fire')](http://www.fhir.org/)
