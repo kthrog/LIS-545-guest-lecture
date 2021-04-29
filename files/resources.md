@@ -51,12 +51,11 @@ University of Washington, Health Sciences Library (UWHSL). (2021). Data resource
 - [National Library of Medicine's (NLM) Metadata Overview](https://nnlm.gov/data/metadata)
 - [NLM Data Tools](https://nnlm.gov/data/data-tools)
 
-
 ### Genetics / Genomics
 - [_The Gene: An Intimate History_](https://www.youtube.com/watch?v=tlf6wYJrwKY) | Siddhartha Mukherjee (ISBN: 978-1432837815) | Highly recommended, regardless of your interest in science! I wish this was required reading for everyone. Dr. Muhkerjee makes genetics approachable and relevant and fascinating.
 - [A Gentle Introduction to RNA-Seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) | StatQuest | YouTube | Did RNA-seq confuse, but also interest, you? This scientist explains it nicely!
 
-### Bioinformatics Resources:
+### Bioinformatics
 - [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics) | Coursera
 - [Data Management for Clinical Research](https://www.coursera.org/learn/clinical-data-management) | Cousera
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training/on-demand?facets=type:Online%20tutorial) | Excellent, well-vetted, free resources on 'big data in biology.'
